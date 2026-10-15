@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1120" height="280" viewBox="0 0 1120 280" fill="none" role="img" aria-labelledby="title desc">
+  <title id="title">MOFAN — Small tools, thoughtfully made.</title>
+  <desc id="desc">Warm paper, quiet typography and a hand-drawn olive branch.</desc>
+  <rect x=".5" y=".5" width="1119" height="279" rx="18" fill="#F7F5EF" stroke="#E7E2D8"/>
+  <path d="M54 43H98" stroke="#A49770" stroke-width="1.5"/>
+  <text x="114" y="47" fill="#858373" font-family="Arial,Helvetica,sans-serif" font-size="10" letter-spacing="2.7">A FEW USEFUL THINGS</text>
+  <text x="51" y="145" fill="#303B34" font-family="Georgia,'Times New Roman',serif" font-size="83" letter-spacing="3">MOFAN<tspan fill="#A49770">.</tspan></text>
+  <text x="56" y="193" fill="#596255" font-family="'Microsoft YaHei','Noto Sans CJK SC','PingFang SC',sans-serif" font-size="21" letter-spacing="1">为日常，做些好用的工具。</text>
+  <text x="57" y="232" fill="#858373" font-family="Arial,Helvetica,sans-serif" font-size="11" letter-spacing="2.2">SMALL TOOLS. THOUGHTFULLY MADE.</text>
+  <circle cx="901" cy="136" r="83" fill="#EDEADF"/>
+  <circle cx="940" cy="94" r="33" fill="#E8E1D0" fill-opacity=".65"/>
+  <g stroke="#8A937B" stroke-width="1.4" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M833 232C860 211 860 178 875 145C886 119 910 99 928 65"/>
+    <path d="M861 186C839 185 823 169 824 150C843 155 858 169 861 186Z" fill="#D8DDCE"/>
+    <path d="M869 163C892 166 912 151 918 131C897 134 877 148 869 163Z" fill="#DEE1D5"/>
+    <path d="M879 139C859 129 852 108 858 89C874 100 882 121 879 139Z" fill="#D8DDCE"/>
+    <path d="M894 115C916 115 934 99 940 80C917 86 901 99 894 115Z" fill="#DEE1D5"/>
+    <path d="M914 87C907 70 911 53 924 42C930 59 926 75 914 87Z" fill="#D8DDCE"/>
+    <path d="M837 236C852 231 866 232 878 236" stroke="#B5B6A5"/>
+  </g>
+  <path d="M806 244H984" stroke="#D4D2C3"/>
+  <circle cx="1003" cy="244" r="2" fill="#A49770"/>
+</svg>

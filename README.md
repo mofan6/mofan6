@@ -1,23 +1,67 @@
-# MOFAN · Windows 桌面工具
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/header-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="assets/header-light.svg" />
+  <img src="assets/header-light.svg" width="1120" alt="MOFAN — 为日常，做些好用的工具。Small tools, thoughtfully made." />
+</picture>
 
-制作在本机运行的 Windows 桌面应用，关注离线使用、清楚的操作流程和界面体验。
+<br/>
 
-Building Windows desktop tools for offline translation, notification sound customization, and browser extension reminders.
+你好，我是 **MOFAN**。
 
-## 项目 / Projects
+把日常遇到的小需求，慢慢做成清楚、好用的工具。关注本机体验，也在意界面的分寸和细节。
 
-| 项目 | 用途 / What it does | 下载 |
-| --- | --- | --- |
-| [译澜 Yilan](https://github.com/mofan6/Yilan) | Windows 38 语言离线翻译、截图 OCR、图片与 PDF/Office 文档翻译。Offline translator with OCR and document translation. | [Windows 安装包](https://github.com/mofan6/Yilan/releases/latest) |
-| [声序 Sonora](https://github.com/mofan6/Sonora) | Windows 微信提示音修改；31 段内置铃声、自选 WAV、备份恢复。WeChat notification sound changer. | [Windows 单 EXE](https://github.com/mofan6/Sonora/releases/latest) |
-| [Edge 扩展提醒延期](https://github.com/mofan6/edge-extension-snooze) | Microsoft Edge 开发者模式扩展提醒延期 1–1000 周，支持备份撤销。Snooze developer-mode extension warnings. | [Windows 单 EXE](https://github.com/mofan6/edge-extension-snooze/releases/latest) |
+<sub>I build useful tools for everyday tasks, with care for clarity, local workflows, and detail.</sub>
 
-各项目的 README 包含功能、使用步骤、兼容范围和许可说明，请在下载前查看。源码公开供查阅，具体使用权利以各仓库说明和第三方许可为准。
+<br/>
 
-Each project README includes usage, compatibility, and licensing details. Please read these before downloading.
+## 作品 · Selected work
 
-## 反馈 / Feedback
+**[Timoa](https://github.com/mofan6/Timoa)** · 时间与专注　[下载](https://github.com/mofan6/Timoa/releases/latest)
 
-遇到问题时，请在对应项目的 Issues 中提供系统版本、软件版本、复现步骤和报错信息。欢迎提出具体的使用建议。
+轻量的倒计时与闹钟，配合每周计划和专注统计，为学习与刷题留一段专注的时间。
 
-Report bugs and feature ideas in the relevant repository's Issues, with your Windows version, app version, and steps to reproduce.
+<sub>A lightweight countdown timer and alarm clock for focused study.</sub>
+
+<br/>
+
+**[译澜 Yilan](https://github.com/mofan6/Yilan)** · 理解与表达　[下载](https://github.com/mofan6/Yilan/releases/latest)
+
+离线翻译、截图 OCR 与文档翻译，把常用的阅读和翻译流程放到本机。
+
+<sub>Offline translation, screenshot OCR, and document translation for Windows.</sub>
+
+<br/>
+
+**[声序 Sonora](https://github.com/mofan6/Sonora)** · 日常里的声音　[下载](https://github.com/mofan6/Sonora/releases/latest)
+
+为 Windows 微信更换提示音，提供内置铃声、自定义音频，以及备份和恢复。
+
+<sub>A WeChat notification sound changer for Windows.</sub>
+
+<br/>
+
+**[微信文章 MCP](https://github.com/mofan6/wechat-article-mcp)** · 阅读与整理
+
+将微信公众号文章导出为 Markdown 和 PDF，衔接 Agent 的阅读与整理流程。
+
+<sub>WeChat article exports for Markdown, PDF, and agent workflows.</sub>
+
+<br/>
+
+**[Edge 扩展提醒延期](https://github.com/mofan6/edge-extension-snooze)** · 少一点打扰　[下载](https://github.com/mofan6/edge-extension-snooze/releases/latest)
+
+给 Microsoft Edge 开发者模式扩展提醒设置延期，支持备份与撤销。
+
+<sub>A small Windows utility for snoozing Edge developer-mode extension warnings.</sub>
+
+<br/>
+
+## 交流 · Say hello
+
+想法、建议或使用中遇到的小问题，欢迎留在对应项目的 **Issues** 里。
+
+<sub>Ideas and thoughtful feedback are always welcome in the relevant project's Issues.</sub>
+
+<br/>
+
+<p align="center"><img src="assets/divider.svg" width="200" alt="" /></p>
