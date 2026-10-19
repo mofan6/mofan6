@@ -16,6 +16,14 @@
 
 ## 作品 · Selected work
 
+**[百度地图轻量桌面版](https://github.com/mofan6/BaiduMapsDesktop)** · 地图与出行　[下载](https://github.com/mofan6/BaiduMapsDesktop/releases/latest)
+
+把百度地图装进简洁的桌面窗口，保留地点搜索与路线规划，加入最近搜索、收藏和矩形截图。1.6 提供 64 位 / 32 位单 EXE，均小于 6 MB。
+
+<sub>A lightweight Windows desktop wrapper for Baidu Maps, with search, routes, favorites, and region screenshots.</sub>
+
+<br/>
+
 **[Timoa](https://github.com/mofan6/Timoa)** · 时间与专注　[下载](https://github.com/mofan6/Timoa/releases/latest)
 
 轻量的倒计时与闹钟，配合每周计划和专注统计，为学习与刷题留一段专注的时间。
@@ -65,3 +73,4 @@
 <br/>
 
 <p align="center"><img src="assets/divider.svg" width="200" alt="" /></p>
+
