@@ -16,6 +16,14 @@
 
 ## 作品 · Selected work
 
+**[Focus Harbor · 专注中枢](https://github.com/mofan6/FocusHarbor)** · 学习与自律　[下载](https://github.com/mofan6/FocusHarbor/releases/latest)
+
+把浏览器白名单、应用与文件守卫、晨间闹钟和学习奖励放进一个轻量桌面工具。支持有限休息、主动恢复专注与本地专注记录，单文件约 322 KiB。
+
+<sub>A lightweight Windows focus companion with website allowlists, app guards, morning alarms, and study rewards.</sub>
+
+<br/>
+
 **[百度地图轻量桌面版](https://github.com/mofan6/BaiduMapsDesktop)** · 地图与出行　[下载](https://github.com/mofan6/BaiduMapsDesktop/releases/latest)
 
 把百度地图装进简洁的桌面窗口，保留地点搜索与路线规划，加入最近搜索、收藏和矩形截图。1.6 提供 64 位 / 32 位单 EXE，均小于 6 MB。
