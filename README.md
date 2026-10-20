@@ -18,7 +18,7 @@
 
 **[Focus Harbor · 专注中枢](https://github.com/mofan6/FocusHarbor)** · 学习与自律　[下载](https://github.com/mofan6/FocusHarbor/releases/latest)
 
-把浏览器白名单、应用与文件守卫、晨间闹钟和学习奖励放进一个轻量桌面工具。支持有限休息、主动恢复专注与本地专注记录，单文件约 322 KiB。
+把浏览器白名单、应用与文件守卫、晨间闹钟和学习奖励放进一个轻量桌面工具。支持有限休息、主动恢复专注与本地专注记录，单文件约 338 KiB。
 
 <sub>A lightweight Windows focus companion with website allowlists, app guards, morning alarms, and study rewards.</sub>
 
