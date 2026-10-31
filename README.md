@@ -16,6 +16,14 @@
 
 ## 作品 · Selected work
 
+**[Moect](https://github.com/mofan6/Moect)** · 对话与归档　[下载](https://github.com/mofan6/Moect/releases/latest)
+
+把微信好友与群聊整理成可离线阅读的聊天归档，保留可用头像、图片、表情和合并转发。支持 HTML 等六种格式、搜索与时间筛选，提供 Windows 一键安装包。
+
+<sub>A Windows desktop tool for exporting WeChat conversations and available media into searchable, offline archives.</sub>
+
+<br/>
+
 **[Focus Harbor · 专注中枢](https://github.com/mofan6/FocusHarbor)** · 学习与自律　[下载](https://github.com/mofan6/FocusHarbor/releases/latest)
 
 把浏览器白名单、应用与文件守卫、晨间闹钟和学习奖励放进一个轻量桌面工具。支持有限休息、主动恢复专注与本地专注记录，单文件约 338 KiB。
