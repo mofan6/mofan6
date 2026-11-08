@@ -1,13 +1,13 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="1120" height="216" viewBox="0 0 1120 216" fill="none" role="img" aria-labelledby="title desc">
   <title id="title">百度地图轻量桌面版</title>
-  <desc id="desc">从地点搜索，到下一段出发。</desc>
+  <desc id="desc">在桌面使用百度地图搜索地点和规划路线</desc>
   <rect x=".5" y=".5" width="1119" height="215" rx="20" fill="#F8F6F0" stroke="#E2E2D5"/>
   <rect x="1" y="51" width="4" height="114" rx="2" fill="#5B8990"/>
   <text x="48" y="40" fill="#5B8990" font-family="'Segoe UI','Microsoft YaHei','PingFang SC',Arial,sans-serif" font-size="15" font-weight="600" letter-spacing="1">07</text>
   <path d="M79 34H103" stroke="#E2E2D5" stroke-width="1.5"/>
-  <text x="119" y="40" fill="#687266" font-family="'Segoe UI','Microsoft YaHei','PingFang SC',Arial,sans-serif" font-size="13" font-weight="500" letter-spacing="1.7">MAPS &amp; EVERYDAY ROUTES</text>
+  <text x="119" y="40" fill="#687266" font-family="'Segoe UI','Microsoft YaHei','PingFang SC',Arial,sans-serif" font-size="13" font-weight="500" letter-spacing="1.7">DESKTOP MAPS</text>
   <text x="47" y="112" fill="#2F3D35" font-family="'Segoe UI','Microsoft YaHei','PingFang SC',Arial,sans-serif" font-size="43" font-weight="600" letter-spacing=".3">百度地图轻量桌面版</text>
-  <text x="49" y="158" fill="#687266" font-family="'Segoe UI','Microsoft YaHei','PingFang SC',Arial,sans-serif" font-size="23" font-weight="400" >从地点搜索，到下一段出发。</text>
+  <text x="49" y="158" fill="#687266" font-family="'Segoe UI','Microsoft YaHei','PingFang SC',Arial,sans-serif" font-size="23" font-weight="400" >在桌面使用百度地图搜索地点和规划路线</text>
   <path d="M752 40V176" stroke="#E2E2D5"/>
   <g transform="translate(801 18)"><g stroke-linecap="round" stroke-linejoin="round"><circle cx="120" cy="90" r="79" fill="#5B8990" fill-opacity=".07"/>
           <path d="M31 43L87 24L150 44L207 25V137L150 157L87 137L31 156Z" fill="#FFFEFA" stroke="#E2E2D5" stroke-width="2.5"/>

@@ -1,13 +1,13 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="1120" height="360" viewBox="0 0 1120 360" fill="none" role="img" aria-labelledby="title desc">
-  <title id="title">MOFAN — 为日常，做些好用的工具。</title>
+  <title id="title">MOFAN — Windows 实用工具与开源项目</title>
   <desc id="desc">An illustrated desktop with conversation, translation and timer cards, on warm paper and olive tones.</desc>
   <defs><pattern id="dots" width="20" height="20" patternUnits="userSpaceOnUse"><circle cx="1" cy="1" r="1" fill="#3B493F"/></pattern></defs>
   <rect x=".5" y=".5" width="1119" height="359" rx="24" fill="#1B231F" stroke="#3B493F"/>
   <path d="M56 48H91" stroke="#CCBB8D" stroke-width="2"/>
-  <text x="104" y="53" fill="#BAC4B4" font-family="'Segoe UI','Microsoft YaHei','PingFang SC',Arial,sans-serif" font-size="13" font-weight="400" letter-spacing="2.4">A FEW USEFUL THINGS</text>
+  <text x="104" y="53" fill="#BAC4B4" font-family="'Segoe UI','Microsoft YaHei','PingFang SC',Arial,sans-serif" font-size="13" font-weight="400" letter-spacing="2">WINDOWS TOOLS &amp; OPEN SOURCE</text>
   <text x="51" y="160" fill="#F0EDE2" font-family="Georgia,'Times New Roman',serif" font-size="96" letter-spacing="1">MOFAN<tspan fill="#CCBB8D">.</tspan></text>
-  <text x="56" y="216" fill="#F0EDE2" font-family="'Segoe UI','Microsoft YaHei','PingFang SC',Arial,sans-serif" font-size="28" font-weight="400" letter-spacing="1">为日常，做些好用的工具。</text>
-  <text x="57" y="256" fill="#BAC4B4" font-family="'Segoe UI','Microsoft YaHei','PingFang SC',Arial,sans-serif" font-size="19" font-weight="400" >Small tools, thoughtfully made.</text>
+  <text x="56" y="216" fill="#F0EDE2" font-family="'Segoe UI','Microsoft YaHei','PingFang SC',Arial,sans-serif" font-size="28" font-weight="400" letter-spacing="1">Windows 实用工具与开源项目</text>
+  <text x="57" y="256" fill="#BAC4B4" font-family="'Segoe UI','Microsoft YaHei','PingFang SC',Arial,sans-serif" font-size="19" font-weight="400" >Windows utilities and open-source projects.</text>
   <rect x="56" y="293" width="102" height="29" rx="14.5" stroke="#3B493F"/>
   <text x="77" y="313" fill="#BAC4B4" font-family="'Segoe UI','Microsoft YaHei','PingFang SC',Arial,sans-serif" font-size="12" font-weight="600" letter-spacing=".8">WINDOWS</text>
   <rect x="169" y="293" width="135" height="29" rx="14.5" stroke="#3B493F"/>

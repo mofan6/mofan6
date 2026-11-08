@@ -1,13 +1,13 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="1120" height="216" viewBox="0 0 1120 216" fill="none" role="img" aria-labelledby="title desc">
   <title id="title">Edge 扩展提醒延期</title>
-  <desc id="desc">少一点提醒，多一点自己的节奏。</desc>
+  <desc id="desc">延后 Edge 开发者模式扩展提醒</desc>
   <rect x=".5" y=".5" width="1119" height="215" rx="20" fill="#F8F6F0" stroke="#E2E2D5"/>
   <rect x="1" y="51" width="4" height="114" rx="2" fill="#8F9262"/>
   <text x="48" y="40" fill="#8F9262" font-family="'Segoe UI','Microsoft YaHei','PingFang SC',Arial,sans-serif" font-size="15" font-weight="600" letter-spacing="1">06</text>
   <path d="M79 34H103" stroke="#E2E2D5" stroke-width="1.5"/>
-  <text x="119" y="40" fill="#687266" font-family="'Segoe UI','Microsoft YaHei','PingFang SC',Arial,sans-serif" font-size="13" font-weight="500" letter-spacing="1.7">FEWER INTERRUPTIONS</text>
+  <text x="119" y="40" fill="#687266" font-family="'Segoe UI','Microsoft YaHei','PingFang SC',Arial,sans-serif" font-size="13" font-weight="500" letter-spacing="1.7">EDGE EXTENSION REMINDERS</text>
   <text x="47" y="112" fill="#2F3D35" font-family="'Segoe UI','Microsoft YaHei','PingFang SC',Arial,sans-serif" font-size="43" font-weight="600" letter-spacing=".3">Edge 扩展提醒延期</text>
-  <text x="49" y="158" fill="#687266" font-family="'Segoe UI','Microsoft YaHei','PingFang SC',Arial,sans-serif" font-size="23" font-weight="400" >少一点提醒，多一点自己的节奏。</text>
+  <text x="49" y="158" fill="#687266" font-family="'Segoe UI','Microsoft YaHei','PingFang SC',Arial,sans-serif" font-size="23" font-weight="400" >延后 Edge 开发者模式扩展提醒</text>
   <path d="M752 40V176" stroke="#E2E2D5"/>
   <g transform="translate(801 18)"><g stroke-linecap="round" stroke-linejoin="round"><circle cx="120" cy="90" r="79" fill="#8F9262" fill-opacity=".07"/>
           <rect x="29" y="27" width="181" height="124" rx="13" fill="#FFFEFA" stroke="#E2E2D5" stroke-width="2"/>

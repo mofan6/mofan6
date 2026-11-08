@@ -1,13 +1,13 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="1120" height="216" viewBox="0 0 1120 216" fill="none" role="img" aria-labelledby="title desc">
   <title id="title">微信文章 MCP</title>
-  <desc id="desc">从一篇文章，到更顺手的整理流程。</desc>
+  <desc id="desc">将微信公众号文章导出为 Markdown 和 PDF</desc>
   <rect x=".5" y=".5" width="1119" height="215" rx="20" fill="#F8F6F0" stroke="#E2E2D5"/>
   <rect x="1" y="51" width="4" height="114" rx="2" fill="#6885A4"/>
   <text x="48" y="40" fill="#6885A4" font-family="'Segoe UI','Microsoft YaHei','PingFang SC',Arial,sans-serif" font-size="15" font-weight="600" letter-spacing="1">05</text>
   <path d="M79 34H103" stroke="#E2E2D5" stroke-width="1.5"/>
-  <text x="119" y="40" fill="#687266" font-family="'Segoe UI','Microsoft YaHei','PingFang SC',Arial,sans-serif" font-size="13" font-weight="500" letter-spacing="1.7">READING &amp; AGENT WORKFLOWS</text>
+  <text x="119" y="40" fill="#687266" font-family="'Segoe UI','Microsoft YaHei','PingFang SC',Arial,sans-serif" font-size="13" font-weight="500" letter-spacing="1.7">WECHAT ARTICLE EXPORT</text>
   <text x="47" y="112" fill="#2F3D35" font-family="'Segoe UI','Microsoft YaHei','PingFang SC',Arial,sans-serif" font-size="43" font-weight="600" letter-spacing=".3">微信文章 MCP</text>
-  <text x="49" y="158" fill="#687266" font-family="'Segoe UI','Microsoft YaHei','PingFang SC',Arial,sans-serif" font-size="23" font-weight="400" >从一篇文章，到更顺手的整理流程。</text>
+  <text x="49" y="158" fill="#687266" font-family="'Segoe UI','Microsoft YaHei','PingFang SC',Arial,sans-serif" font-size="23" font-weight="400" >将微信公众号文章导出为 Markdown 和 PDF</text>
   <path d="M752 40V176" stroke="#E2E2D5"/>
   <g transform="translate(801 18)"><g stroke-linecap="round" stroke-linejoin="round"><circle cx="120" cy="90" r="79" fill="#6885A4" fill-opacity=".07"/>
           <path d="M39 25H119L143 49V146H39Z" fill="#FFFEFA" stroke="#E2E2D5" stroke-width="2"/>
