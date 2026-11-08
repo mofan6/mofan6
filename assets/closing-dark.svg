@@ -1,9 +1,0 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="1120" height="130" viewBox="0 0 1120 130" fill="none" role="img" aria-labelledby="title desc">
-  <title id="title">Feedback and issues</title>
-  <desc id="desc">项目建议和问题反馈请提交到对应仓库</desc>
-  <rect x=".5" y=".5" width="1119" height="129" rx="20" fill="#1B231F" stroke="#3B493F"/>
-  <path d="M48 46V84M29 65H67M35 52L61 78M35 78L61 52" stroke="#CCBB8D" stroke-width="2"/>
-  <text x="98" y="58" fill="#F0EDE2" font-family="'Segoe UI','Microsoft YaHei','PingFang SC',Arial,sans-serif" font-size="25" font-weight="400" >项目建议和问题反馈请提交到对应仓库</text>
-  <text x="99" y="91" fill="#BAC4B4" font-family="'Segoe UI','Microsoft YaHei','PingFang SC',Arial,sans-serif" font-size="13" font-weight="400" letter-spacing="2">FEEDBACK &amp; ISSUES</text>
-  <path d="M1008 65H1064M1048 49L1064 65L1048 81" stroke="#CCBB8D" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
-</svg>
