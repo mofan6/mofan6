@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1120" height="216" viewBox="0 0 1120 216" fill="none" role="img" aria-labelledby="title desc">
+  <title id="title">Edge 扩展提醒延期</title>
+  <desc id="desc">少一点提醒，多一点自己的节奏。</desc>
+  <rect x=".5" y=".5" width="1119" height="215" rx="20" fill="#F8F6F0" stroke="#E2E2D5"/>
+  <rect x="1" y="51" width="4" height="114" rx="2" fill="#8F9262"/>
+  <text x="48" y="40" fill="#8F9262" font-family="'Segoe UI','Microsoft YaHei','PingFang SC',Arial,sans-serif" font-size="15" font-weight="600" letter-spacing="1">06</text>
+  <path d="M79 34H103" stroke="#E2E2D5" stroke-width="1.5"/>
+  <text x="119" y="40" fill="#687266" font-family="'Segoe UI','Microsoft YaHei','PingFang SC',Arial,sans-serif" font-size="13" font-weight="500" letter-spacing="1.7">FEWER INTERRUPTIONS</text>
+  <text x="47" y="112" fill="#2F3D35" font-family="'Segoe UI','Microsoft YaHei','PingFang SC',Arial,sans-serif" font-size="43" font-weight="600" letter-spacing=".3">Edge 扩展提醒延期</text>
+  <text x="49" y="158" fill="#687266" font-family="'Segoe UI','Microsoft YaHei','PingFang SC',Arial,sans-serif" font-size="23" font-weight="400" >少一点提醒，多一点自己的节奏。</text>
+  <path d="M752 40V176" stroke="#E2E2D5"/>
+  <g transform="translate(801 18)"><g stroke-linecap="round" stroke-linejoin="round"><circle cx="120" cy="90" r="79" fill="#8F9262" fill-opacity=".07"/>
+          <rect x="29" y="27" width="181" height="124" rx="13" fill="#FFFEFA" stroke="#E2E2D5" stroke-width="2"/>
+          <path d="M29 54H210" stroke="#E2E2D5" stroke-width="2"/>
+          <circle cx="44" cy="40" r="3" fill="#8F9262"/><circle cx="55" cy="40" r="3" fill="#E2E2D5"/><circle cx="66" cy="40" r="3" fill="#E2E2D5"/>
+          <path d="M90 115H139L133 106V91A18 18 0 0 0 97 91V106ZM108 124C110 130 119 130 122 124" stroke="#8F9262" stroke-width="2.5"/>
+          <path d="M108 68H122" stroke="#8F9262" stroke-width="2.5"/>
+          <circle cx="179" cy="135" r="28" fill="#FFFEFA" stroke="#8F9262" stroke-width="2.5"/>
+          <path d="M179 119V135L189 141M161 80H184L163 99H186" stroke="#8F9262" stroke-width="2.5"/>
+        </g></g>
+  <path d="M1082 32H1092V42M1080 44L1092 32" stroke="#8F9262" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+</svg>

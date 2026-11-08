@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1120" height="216" viewBox="0 0 1120 216" fill="none" role="img" aria-labelledby="title desc">
+  <title id="title">声序 Sonora</title>
+  <desc id="desc">给熟悉的消息，换一种声音。</desc>
+  <rect x=".5" y=".5" width="1119" height="215" rx="20" fill="#F8F6F0" stroke="#E2E2D5"/>
+  <rect x="1" y="51" width="4" height="114" rx="2" fill="#B47F83"/>
+  <text x="48" y="40" fill="#B47F83" font-family="'Segoe UI','Microsoft YaHei','PingFang SC',Arial,sans-serif" font-size="15" font-weight="600" letter-spacing="1">04</text>
+  <path d="M79 34H103" stroke="#E2E2D5" stroke-width="1.5"/>
+  <text x="119" y="40" fill="#687266" font-family="'Segoe UI','Microsoft YaHei','PingFang SC',Arial,sans-serif" font-size="13" font-weight="500" letter-spacing="1.7">SOUND &amp; PERSONAL TOUCHES</text>
+  <text x="47" y="112" fill="#2F3D35" font-family="'Segoe UI','Microsoft YaHei','PingFang SC',Arial,sans-serif" font-size="43" font-weight="600" letter-spacing=".3">声序 Sonora</text>
+  <text x="49" y="158" fill="#687266" font-family="'Segoe UI','Microsoft YaHei','PingFang SC',Arial,sans-serif" font-size="23" font-weight="400" >给熟悉的消息，换一种声音。</text>
+  <path d="M752 40V176" stroke="#E2E2D5"/>
+  <g transform="translate(801 18)"><g stroke-linecap="round" stroke-linejoin="round"><circle cx="120" cy="90" r="79" fill="#B47F83" fill-opacity=".07"/>
+          <rect x="24" y="38" width="191" height="108" rx="17" fill="#FFFEFA" stroke="#E2E2D5" stroke-width="2"/>
+          <path d="M43 93H51M60 79V107M73 65V121M86 76V110M99 54V132M112 72V114M125 82V104M138 68V118M151 78V108M164 87V99" stroke="#B47F83" stroke-width="4"/>
+          <circle cx="189" cy="60" r="5" fill="#B47F83" fill-opacity=".5"/>
+          <rect x="158" y="121" width="58" height="37" rx="12" fill="#FFFEFA" stroke="#B47F83" stroke-width="2.5"/>
+          <path d="M178 134L188 127V151L178 144H173V134ZM195 133C201 138 201 140 195 145" stroke="#B47F83" stroke-width="2"/>
+        </g></g>
+  <path d="M1082 32H1092V42M1080 44L1092 32" stroke="#B47F83" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+</svg>

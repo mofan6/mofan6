@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1120" height="216" viewBox="0 0 1120 216" fill="none" role="img" aria-labelledby="title desc">
+  <title id="title">百度地图轻量桌面版</title>
+  <desc id="desc">从地点搜索，到下一段出发。</desc>
+  <rect x=".5" y=".5" width="1119" height="215" rx="20" fill="#F8F6F0" stroke="#E2E2D5"/>
+  <rect x="1" y="51" width="4" height="114" rx="2" fill="#5B8990"/>
+  <text x="48" y="40" fill="#5B8990" font-family="'Segoe UI','Microsoft YaHei','PingFang SC',Arial,sans-serif" font-size="15" font-weight="600" letter-spacing="1">07</text>
+  <path d="M79 34H103" stroke="#E2E2D5" stroke-width="1.5"/>
+  <text x="119" y="40" fill="#687266" font-family="'Segoe UI','Microsoft YaHei','PingFang SC',Arial,sans-serif" font-size="13" font-weight="500" letter-spacing="1.7">MAPS &amp; EVERYDAY ROUTES</text>
+  <text x="47" y="112" fill="#2F3D35" font-family="'Segoe UI','Microsoft YaHei','PingFang SC',Arial,sans-serif" font-size="43" font-weight="600" letter-spacing=".3">百度地图轻量桌面版</text>
+  <text x="49" y="158" fill="#687266" font-family="'Segoe UI','Microsoft YaHei','PingFang SC',Arial,sans-serif" font-size="23" font-weight="400" >从地点搜索，到下一段出发。</text>
+  <path d="M752 40V176" stroke="#E2E2D5"/>
+  <g transform="translate(801 18)"><g stroke-linecap="round" stroke-linejoin="round"><circle cx="120" cy="90" r="79" fill="#5B8990" fill-opacity=".07"/>
+          <path d="M31 43L87 24L150 44L207 25V137L150 157L87 137L31 156Z" fill="#FFFEFA" stroke="#E2E2D5" stroke-width="2.5"/>
+          <path d="M87 24V137M150 44V157" stroke="#E2E2D5" stroke-width="2"/>
+          <path d="M34 81L84 65L149 85L204 67M34 116L85 100L149 120L204 101" stroke="#E2E2D5" stroke-width="7" opacity=".55"/>
+          <path d="M53 128L76 120L105 91L145 105L166 83" stroke="#5B8990" stroke-width="3.5" stroke-dasharray="5 7"/>
+          <circle cx="53" cy="128" r="6" fill="#FFFEFA" stroke="#5B8990" stroke-width="3"/>
+          <path d="M191 62C191 82 166 103 166 103C166 103 141 82 141 62A25 25 0 1 1 191 62Z" fill="#FFFEFA" stroke="#5B8990" stroke-width="3"/>
+          <circle cx="166" cy="61" r="8" fill="#5B8990" fill-opacity=".2" stroke="#5B8990" stroke-width="2.5"/>
+        </g></g>
+  <path d="M1082 32H1092V42M1080 44L1092 32" stroke="#5B8990" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+</svg>

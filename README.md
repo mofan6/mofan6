@@ -4,7 +4,6 @@
   <img src="assets/header-light.svg" width="1120" alt="MOFAN — 为日常，做些好用的工具。Small tools, thoughtfully made." />
 </picture>
 
-<br/>
 
 你好，我是 **MOFAN**。
 
@@ -12,63 +11,106 @@
 
 <sub>I build useful tools for everyday tasks, with care for clarity, local workflows, and detail.</sub>
 
-<br/>
-
 ## 作品 · Selected work
 
-**[Moect](https://github.com/mofan6/Moect)** · 对话与归档　[下载](https://github.com/mofan6/Moect/releases/latest)
+从本机工具到阅读与整理，下面是我正在做的一些小项目。
 
-把微信好友与群聊整理成可离线阅读的聊天归档，保留可用头像、图片、表情和合并转发。支持 HTML 等六种格式、搜索与时间筛选，提供 Windows 一键安装包。
 
-<sub>A Windows desktop tool for exporting WeChat conversations and available media into searchable, offline archives.</sub>
+<a href="https://github.com/mofan6/Moect">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/project-moect-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="assets/project-moect-light.svg" />
+  <img src="assets/project-moect-light.svg" width="1120" alt="Moect — 对话、朋友圈与表情，留一份在本地。" />
+</picture>
+</a>
 
-<br/>
+把微信会话、朋友圈与表情包整理成可离线浏览的本地归档。支持多种导出格式、批量任务、搜索与时间筛选。
 
-**[百度地图轻量桌面版](https://github.com/mofan6/BaiduMapsDesktop)** · 地图与出行　[下载](https://github.com/mofan6/BaiduMapsDesktop/releases/latest)
-
-把百度地图装进简洁的桌面窗口，保留地点搜索与路线规划，加入最近搜索、收藏和矩形截图。1.6 提供 64 位 / 32 位单 EXE，均小于 6 MB。
-
-<sub>A lightweight Windows desktop wrapper for Baidu Maps, with search, routes, favorites, and region screenshots.</sub>
-
-<br/>
-
-**[Timoa](https://github.com/mofan6/Timoa)** · 时间与专注　[下载](https://github.com/mofan6/Timoa/releases/latest)
-
-轻量的倒计时与闹钟，配合每周计划和专注统计，为学习与刷题留一段专注的时间。
-
-<sub>A lightweight countdown timer and alarm clock for focused study.</sub>
+[**Moect** · 查看项目](https://github.com/mofan6/Moect)　·　[下载使用](https://github.com/mofan6/Moect/releases/latest)
 
 <br/>
 
-**[译澜 Yilan](https://github.com/mofan6/Yilan)** · 理解与表达　[下载](https://github.com/mofan6/Yilan/releases/latest)
+<a href="https://github.com/mofan6/Timoa">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/project-timoa-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="assets/project-timoa-light.svg" />
+  <img src="assets/project-timoa-light.svg" width="1120" alt="Timoa — 为眼前的事情，留一段专注时间。" />
+</picture>
+</a>
 
-离线翻译、截图 OCR 与文档翻译，把常用的阅读和翻译流程放到本机。
+倒计时、秒表与闹钟，搭配悬浮计时窗口，为学习、工作和日常安排提供轻巧的时间工具。
 
-<sub>Offline translation, screenshot OCR, and document translation for Windows.</sub>
-
-<br/>
-
-**[声序 Sonora](https://github.com/mofan6/Sonora)** · 日常里的声音　[下载](https://github.com/mofan6/Sonora/releases/latest)
-
-为 Windows 微信更换提示音，提供内置铃声、自定义音频，以及备份和恢复。
-
-<sub>A WeChat notification sound changer for Windows.</sub>
+[**Timoa** · 查看项目](https://github.com/mofan6/Timoa)　·　[下载使用](https://github.com/mofan6/Timoa/releases/latest)
 
 <br/>
 
-**[微信文章 MCP](https://github.com/mofan6/wechat-article-mcp)** · 阅读与整理
+<a href="https://github.com/mofan6/Yilan">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/project-yilan-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="assets/project-yilan-light.svg" />
+  <img src="assets/project-yilan-light.svg" width="1120" alt="译澜 Yilan — 让阅读与表达，少一些语言的距离。" />
+</picture>
+</a>
 
-将微信公众号文章导出为 Markdown 和 PDF，衔接 Agent 的阅读与整理流程。
+在 Windows 本机完成离线翻译、截图 OCR、图片与文档翻译，把常用的阅读和翻译流程放在一起。
 
-<sub>WeChat article exports for Markdown, PDF, and agent workflows.</sub>
+[**译澜 Yilan** · 查看项目](https://github.com/mofan6/Yilan)　·　[下载使用](https://github.com/mofan6/Yilan/releases/latest)
 
 <br/>
 
-**[Edge 扩展提醒延期](https://github.com/mofan6/edge-extension-snooze)** · 少一点打扰　[下载](https://github.com/mofan6/edge-extension-snooze/releases/latest)
+<a href="https://github.com/mofan6/Sonora">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/project-sonora-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="assets/project-sonora-light.svg" />
+  <img src="assets/project-sonora-light.svg" width="1120" alt="声序 Sonora — 给熟悉的消息，换一种声音。" />
+</picture>
+</a>
 
-给 Microsoft Edge 开发者模式扩展提醒设置延期，支持备份与撤销。
+为 Windows 微信更换通知提示音。提供内置铃声、自定义 WAV，以及备份与恢复。
 
-<sub>A small Windows utility for snoozing Edge developer-mode extension warnings.</sub>
+[**声序 Sonora** · 查看项目](https://github.com/mofan6/Sonora)　·　[下载使用](https://github.com/mofan6/Sonora/releases/latest)
+
+<br/>
+
+<a href="https://github.com/mofan6/wechat-article-mcp">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/project-mcp-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="assets/project-mcp-light.svg" />
+  <img src="assets/project-mcp-light.svg" width="1120" alt="微信文章 MCP — 从一篇文章，到更顺手的整理流程。" />
+</picture>
+</a>
+
+将微信公众号文章导出为 Markdown 或 PDF，衔接 Agent 的阅读、整理与后续处理流程。
+
+[**微信文章 MCP** · 查看项目](https://github.com/mofan6/wechat-article-mcp)
+
+<br/>
+
+<a href="https://github.com/mofan6/edge-extension-snooze">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/project-edge-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="assets/project-edge-light.svg" />
+  <img src="assets/project-edge-light.svg" width="1120" alt="Edge 扩展提醒延期 — 少一点提醒，多一点自己的节奏。" />
+</picture>
+</a>
+
+为 Microsoft Edge 开发者模式扩展提醒设置延期。支持配置发现、备份和撤销，保留恢复的余地。
+
+[**Edge 扩展提醒延期** · 查看项目](https://github.com/mofan6/edge-extension-snooze)　·　[下载使用](https://github.com/mofan6/edge-extension-snooze/releases/latest)
+
+<br/>
+
+<a href="https://github.com/mofan6/BaiduMapsDesktop">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/project-maps-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="assets/project-maps-light.svg" />
+  <img src="assets/project-maps-light.svg" width="1120" alt="百度地图轻量桌面版 — 从地点搜索，到下一段出发。" />
+</picture>
+</a>
+
+把百度地图放进简洁的 Windows 桌面窗口。地点搜索、路线规划、收藏与区域截图，随手就能用。
+
+[**百度地图轻量桌面版** · 查看项目](https://github.com/mofan6/BaiduMapsDesktop)　·　[下载使用](https://github.com/mofan6/BaiduMapsDesktop/releases/latest)
 
 <br/>
 
@@ -78,7 +120,11 @@
 
 <sub>Ideas and thoughtful feedback are always welcome in the relevant project's Issues.</sub>
 
-<br/>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/closing-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="assets/closing-light.svg" />
+  <img src="assets/closing-light.svg" width="1120" alt="从一个小需求开始，慢慢做成有用的东西。Made with care. Shared with you." />
+</picture>
 
 <p align="center"><img src="assets/divider.svg" width="200" alt="" /></p>
-
