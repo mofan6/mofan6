@@ -1,7 +1,7 @@
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="assets/header-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="assets/header-light.svg" />
-  <img src="assets/header-light.svg" width="1120" alt="MOFAN — Windows 实用工具与开源项目" />
+  <img src="assets/header-light.svg" width="1120" alt="MOFAN — 为日常，做些好用的工具。Small tools, thoughtfully made." />
 </picture>
 
 
